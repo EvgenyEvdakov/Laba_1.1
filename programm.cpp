@@ -6,5 +6,5 @@ int main()
 	int year, month;
 	year = 2022;
 	month = 9;
-
+	printf("Сейчас %d год\n", year, month)
 }
