@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 #include<locale.h>
 int main()
@@ -8,3 +9,4 @@ int main()
 	month = 9;
 	printf("Сейчас %d год\n", year, month)
 }
+
