@@ -5,5 +5,6 @@ int main()
 	setlocale(LC_ALL, "Russian");
 	int year, month;
 	year = 2022;
+	month = 9;
 
 }
